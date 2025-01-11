@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in VBScript: unexpected comparison results due to loose typing. The `bug.vbs` file contains code that showcases the problem. The solution, found in `bugSolution.vbs`, emphasizes explicit type checking for reliable comparisons.
